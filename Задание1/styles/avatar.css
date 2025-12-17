@@ -1,0 +1,10 @@
+.avatar-container.card {
+    width: 124px;
+    border-radius: 12px;
+}
+
+.avatar-conyainer,
+.personal-info,
+.languages-info {
+    height: 100%;
+}
